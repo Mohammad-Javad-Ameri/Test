@@ -7,5 +7,8 @@
 }
 
 .d {
-  display: inline;
+  display: block;
+}
+.s {
+  display: block;
 }
