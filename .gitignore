@@ -1,2 +1,4 @@
-/style.css
-index.js
+/index.js
+/.css
+node_modules
+.env
