@@ -1,4 +1,4 @@
-let a = 7;
+let a = 5;
 if (a) {
   return true;
 } else {
